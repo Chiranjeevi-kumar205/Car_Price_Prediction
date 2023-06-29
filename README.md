@@ -19,5 +19,3 @@ Car price prediction models leverage these factors and employ various techniques
 
 It's important to note that car price prediction models are not 100% accurate and should be used as a guide rather than a definitive source. Actual market conditions, individual vehicle condition, and other unforeseen factors can significantly impact the final selling price of a car.
 
-To run our code:
-http://127.0.0.1:5000/predict
