@@ -18,3 +18,6 @@ Car price prediction models typically take into account several key factors that
 Car price prediction models leverage these factors and employ various techniques, such as statistical analysis, machine learning algorithms, and regression models, to predict the future price of a car accurately. By considering historical data and relevant market trends, these models provide an estimate of the potential value of a vehicle at a given point in the future.
 
 It's important to note that car price prediction models are not 100% accurate and should be used as a guide rather than a definitive source. Actual market conditions, individual vehicle condition, and other unforeseen factors can significantly impact the final selling price of a car.
+
+To run our code:
+http://127.0.0.1:5000/predict
